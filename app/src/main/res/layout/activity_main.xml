@@ -7,8 +7,6 @@
     android:background="#F9F4EA"
     tools:context=".MainActivity">
 
-    <!-- ImageView para o SVG do topo -->
-
     <ImageView
         android:id="@+id/imageViewTopo"
         android:layout_width="match_parent"
@@ -23,7 +21,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/topo" />
 
-    <!-- ImageView para o SVG do fundo -->
     <ImageView
         android:id="@+id/imageViewBaixo"
         android:layout_width="match_parent"
