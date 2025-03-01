@@ -1,6 +1,6 @@
 # FoliApp
 
-FoliApp é um aplicativo Android que ajuda a calcular o orçamento de uma viagem, considerando diferentes despesas como transporte, hospedagem, alimentação, ingressos e extras.
+FoliApp é um aplicativo Android com temática carnavalesca que ajuda a calcular o orçamento de uma viagem, considerando diferentes despesas como transporte, hospedagem, alimentação, ingressos e extras.
 
 ## Funcionalidades
 
